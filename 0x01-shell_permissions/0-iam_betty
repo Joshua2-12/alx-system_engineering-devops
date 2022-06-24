@@ -1,3 +1,4 @@
 #!/bin/bash
 nsu betty
 - e #! /bin/bash\nsu betty
+- e #! /bin/bash\nsu betty
